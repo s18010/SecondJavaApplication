@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SecondJavaApplication</string>
+    <string name="mainTitleText">ここ最近の成績</string>
+    <string name="lastScoreText1">前回</string>
+    <string name="lastScoreText2">前々回</string>
+    <string name="lastScoreText3">3回前</string>
+    <string name="subTitleText1">問題</string>
+    <string name="subTitleText2">写真の動物の名前は?</string>
+    <string name="pandaText">パンダ</string>
+    <string name="chihuahuaText">チワワ</string>
+    <string name="koalaText">コアラ</string>
+    <string name="na">-</string>
+    <string name="correct">○</string>
+    <string name="incorrect">X</string>
+    <string name="correctText">正解</string>
+    <string name="incorrectText">不正解</string>
+    <string name="nextButtonText">次の問題へ</string>
+</resources>
