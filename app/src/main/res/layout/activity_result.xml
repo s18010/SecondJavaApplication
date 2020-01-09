@@ -23,6 +23,7 @@
         android:id="@+id/backButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
         android:layout_marginBottom="180dp"
         android:text="@string/nextButtonText"
         android:textSize="24sp"
